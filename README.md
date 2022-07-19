@@ -1,1 +1,1 @@
-# Datascience Repository For DataScience Related Projects
+# Datascience Repository For DataScience Projects
